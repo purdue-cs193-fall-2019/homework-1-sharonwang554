@@ -14,6 +14,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+# Sharon Wang's First CS193 Homework
+- no exams
+- no need to buy textbooks
+- is not an 8:30 class
 
 - Bulleted
 - List
